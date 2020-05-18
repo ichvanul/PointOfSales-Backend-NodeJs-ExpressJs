@@ -58,13 +58,13 @@ The PointOfSales-RESTfulAPI is written in Node Js with Express framework, it use
 4. Create `.env` file with environment variable in line with following:
 
    ```
-   SERVER_PORT = 1000
+   SERVER_PORT = 1000 (example)
    DB_HOST = "localhost"
    DB_USER = "your-user"
    DB_PASS = "your-password"
    DB_NAME = "your-database"
    PRIVATE_KEY = "your-private-key"
-   URL = "http://localhost:1000/"
+   URL = "http://localhost:1000/" (example)
    ```
 
 5. Run
