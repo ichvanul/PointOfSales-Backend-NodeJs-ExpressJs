@@ -35,6 +35,7 @@ PointOfSales-RESTfulAPI is a PointOfSales systems with restful api. The main fea
 - Menu page pagination.
 - Allowed CORS.
 - Reporting on income today, yearly, and orders weekly.
+- Redis with default port 6379.
 
 The PointOfSales-RESTfulAPI is written in Node Js with Express framework, it uses MySQL as data storage back-end and has a simple but intuitive user interface.
 
